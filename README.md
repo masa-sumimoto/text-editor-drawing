@@ -15,8 +15,14 @@ It is only imagination to necessary. :art:
 Let's enjoy text drawing! :whale2:
 
 
-## Demos
-These are my demo drawing.
+## Demo samples
+These are my drawing.
 
 ### Demo01 - Yoshi Zombie
-<img src="https://github.com/sumi37/hexadots-drawing-with-text-editor/blob/master/src/images/drawing_01.png" width="800px" alt="hexadots-drawing demo01">
+<img src="https://github.com/sumi37/hexadots-drawing-with-text-editor/blob/master/src/captures/capture-01.png" width="800px" alt="hexadots-drawing sample01">
+
+### Demo02 - Kirby Zombie
+<img src="https://github.com/sumi37/hexadots-drawing-with-text-editor/blob/master/src/captures/capture-02.png" width="800px" alt="hexadots-drawing sample02">
+
+### Demo03 - Slime Zombie
+<img src="https://github.com/sumi37/hexadots-drawing-with-text-editor/blob/master/src/captures/capture-03.png" width="800px" alt="hexadots-drawing sample03">
